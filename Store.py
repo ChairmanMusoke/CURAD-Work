@@ -50,7 +50,7 @@ def load_data(file_source):
 # Check local file
 local_file_path = "Copy of Untitled form (Responses).xlsx"
 if os.path.exists(local_file_path):
-    st.info(f"Reading data from local file: `{local_file_path}`")
+    #st.info(f"Reading data from local file: `{local_file_path}`")
     df = load_data(local_file_path)
 else:
     uploaded_file = st.file_uploader("Upload the PELA Excel file", type=["xlsx"])
@@ -163,4 +163,6 @@ with st.expander("🏅 Dynamic Top Performing PELAs"):
         st.table(top_performers)
     else:
         st.warning(f"Selected metric `{selected_metric}` not found in data.")
+
+
 
