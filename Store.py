@@ -26,9 +26,9 @@ if os.path.exists(logo_path):
     # Inject HTML for dual logos
     st.markdown(
         f"""
-        <div style="display: flex; justify-content: space-between; align-items: center; padding: 0 20px;">
-            <img src="data:image/png;base64,{encoded}" alt="Logo" style="height: 70px;">
-            <img src="data:image/png;base64,{encoded}" alt="Logo" style="height: 70px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; padding: 0 30px;">
+            <img src="data:image/png;base64,{encoded}" alt="Logo" style="height: 80px;">
+            <img src="data:image/png;base64,{encoded}" alt="Logo" style="height: 80px;">
         </div>
         <br>
         """,
