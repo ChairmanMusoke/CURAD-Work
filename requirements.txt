@@ -5,3 +5,4 @@ seaborn
 openpyxl
 Pillow
 XlsxWriter
+plotlyplotly
