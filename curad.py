@@ -9,9 +9,15 @@ st.title("CURAD Student Engagement Summary Dashboard")
 # --- CURAD MISSION NARRATIVE ---
 st.markdown("""
 ### 🌱 About CURAD's Internship Mandate
-The Consortium for Enhancing University Responsiveness to Agribusiness Development (CURAD) plays a crucial role in connecting academia with Uganda's agribusiness industry. A cornerstone of their mission is a strong commitment to student engagement through comprehensive internship programs. These initiatives go beyond traditional classroom learning, offering students hands-on experiences within the agribusiness value chain, from food processing to sustainable farming. CURAD aims to cultivate a new generation of entrepreneurial leaders, equipping them with practical skills and vital industry insights to drive growth in the agricultural sector.
-
-CURAD's "Earn As You Learn" initiative exemplifies their practical approach, enabling students to transform their agribusiness ideas into profitable ventures while still pursuing their studies. This program provides both a practical apprenticeship and a structured environment for developing business acumen under expert mentorship. Alternatively, students can gain experience and earn a salary by interning with existing businesses. This strategic focus on student engagement through internships is a significant investment in Uganda's agricultural future, ensuring that the next wave of leaders is well-prepared with both the knowledge and practical skills to foster sustainable development and create jobs.
+The Consortium for Enhancing University Responsiveness to Agribusiness Development (CURAD) is a
+leading agribusiness innovation incubator established in 2012 through a partnership between Makerere
+University, NARO, and NUCAFE. With support from DANIDA under the UniBRAIN initiative, CURAD
+was established as a dynamic hub for nurturing agribusiness start-ups, SMEs, and young entrepreneurs,
+especially university students and graduates.
+This report provides an update on student-centered activities and CURAD’s broader agribusiness impact,
+particularly in collaboration with Makerere University’s College of Agricultural and Environmental
+Sciences (CAES). It also highlights key contributions from the Coffee Entrepreneurship Bureau of Uganda
+(CEBU).
 """)
 
 # --- Load Preloaded Excel File ---
