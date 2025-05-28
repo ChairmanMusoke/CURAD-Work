@@ -5,5 +5,5 @@ seaborn
 openpyxl
 Pillow
 XlsxWriter
-plotlyplotly
+plotly
 plotly.express
