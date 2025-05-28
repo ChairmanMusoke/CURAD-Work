@@ -8,16 +8,10 @@ st.title("CURAD Student Engagement Summary Dashboard")
 
 # --- CURAD MISSION NARRATIVE ---
 st.markdown("""
-### 🌱 About CURAD's Internship Mandate
-The Consortium for Enhancing University Responsiveness to Agribusiness Development (CURAD) is a
-leading agribusiness innovation incubator established in 2012 through a partnership between Makerere
-University, NARO, and NUCAFE. With support from DANIDA under the UniBRAIN initiative, CURAD
-was established as a dynamic hub for nurturing agribusiness start-ups, SMEs, and young entrepreneurs,
-especially university students and graduates.
-This report provides an update on student-centered activities and CURAD’s broader agribusiness impact,
-particularly in collaboration with Makerere University’s College of Agricultural and Environmental
-Sciences (CAES). It also highlights key contributions from the Coffee Entrepreneurship Bureau of Uganda
-(CEBU).
+### 🌱 About CURAD's Internship Mandateg
+The Consortium for Enhancing University Responsiveness to Agribusiness Development (CURAD) is aleading agribusiness innovation incubator established in 2012 through a partnership between Makerere University, NARO, and NUCAFE. With support from DANIDA under the UniBRAIN initiative, CURAD was established as a dynamic hub for nurturing agribusiness start-ups, SMEs, and young entrepreneurs, especially university students and graduates.
+            
+This report provides an update on student-centered activities and CURAD’s broader agribusiness impact, particularly in collaboration with Makerere University’s College of Agricultural and Environmental Sciences (CAES). It also highlights key contributions from the Coffee Entrepreneurship Bureau of Uganda (CEBU).
 """)
 
 # --- Load Preloaded Excel File ---
